@@ -13,18 +13,18 @@
 
 -test1
 
---espuart : esp32同士でのテキストのuart通信
+- espuart : esp32同士でのテキストのuart通信
 
---lora_test(successed) : loraの送受信テスト
----gro_2 : カメラ付きesp23が地上局としたときのコード(payloadと変わらない．たぶん)
----ground : 私の私物のesp32 dev moduleを地上局にした時のコード(なぜか受信できず失敗)
----payload : カメラ付きesp32のコード
+- lora_test(successed) : loraの送受信テスト
+  -gro_2 : カメラ付きesp23が地上局としたときのコード(payloadと変わらない．たぶん)
+  -ground : 私の私物のesp32 dev moduleを地上局にした時のコード(なぜか受信できず失敗)
+  -payload : カメラ付きesp32のコード
 
---test1 : カメラ動かすコード
+- test1 : カメラ動かすコード
 
 ---
 
 -test2
 
---uart_bin : おそらくloraでバイナリデータを通信するよっていうコードだと思う．
+- uart_bin : おそらくloraでバイナリデータを通信するよっていうコードだと思う．
 `sky=payload`
