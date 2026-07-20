@@ -29,5 +29,5 @@
 
 -test2
 
-- uart_bin : おそらくloraでバイナリデータを通信するよっていうコードだと思う．
+- uart_bin : バイナリデータをuart通信するよっていうコードだと思う．
 `sky=payload`
